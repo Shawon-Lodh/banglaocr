@@ -1,6 +1,6 @@
 CRBLP bangla OCR
 
-This is a Bangla OCR and Bangla charecter segmentation algorithom.
+This is a Bangla OCR and Bangla character segmentation algorithm.
 This application tested only on ubuntu linux.
 More details is coming PLEASE WAIT..... :)
 
