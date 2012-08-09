@@ -1,0 +1,19 @@
+/*
+// Author:
+// Shouro Chowdhury
+// Center for Research on Bangla Language Processing (CRBLP)
+*/
+
+
+manage_file.py
+$ python manage_file.py input_file output_file word_par_line
+
+cmd_dir_exec.py
+$ python cmd_dir_exec.py input_file(file output from manage_file.py) font_name font_size DPI
+
+input_file - text file
+output_file - text file
+word_par_line - a int num
+font_name - only font name (do not use extention *.ttf) and font must be installed in system.
+font_size - font size (int)
+DPI- DPI (int)

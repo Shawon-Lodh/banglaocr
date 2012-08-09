@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ $1 bocr.cc -locropus -liulib -llept -lpng -ljpeg -lgif -ltiff -fopenmp -o bocrdriver
+
